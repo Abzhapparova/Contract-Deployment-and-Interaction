@@ -83,12 +83,12 @@ The contract is deployed on a local Ethereum blockchain using Ganache and intera
 
 - The contract will be deployed using the first account in Ganache.
 - The console will display the address of the deployed contract.
-![Interaction Screenshot](screenshots/interaction_screenshot.png)
+![Interaction Screenshot](screenshots/interaction_screenshot.png.zip)
 ### Send Ether to the Contract
 
 1. Set the desired amount in MetaMask.
 2. Send Ether to the contract address.
-![Interaction Screenshot](screenshots/interaction_screenshot.png)
+![Interaction Screenshot](screenshots/interaction_screenshot.png.zip)
 ### Check Contract Balance
 
 - Run `getBalance()` to retrieve the contract's balance.
@@ -97,7 +97,7 @@ The contract is deployed on a local Ethereum blockchain using Ganache and intera
 
 - Ensure you are using the owner's account.
 - Call `withdraw()` to transfer all funds to the owner.
-![Interaction Screenshot](screenshots/interaction_screenshot.png)
+![Interaction Screenshot](screenshots/interaction_screenshot.png.zip)
 ---
 
 ## File Structure
